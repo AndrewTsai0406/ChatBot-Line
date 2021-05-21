@@ -27,16 +27,16 @@ The following functionalities were made:
 
 
 ## Demonstration
--Chinese/English Chitchat:  
+- Chinese/English Chitchat:  
 ![Chinese](images/Chinese.jpg)
 ![English](images/English.jpg)
--Overview of the flex messege  
+- Overview of the flex messege  
 ![Flex Message](images/overview.jpg)
--Txt2Img generation  
+- Txt2Img generation  
 ![txt2img](images/txt2img.jpg)
--Deep_dream image generation  
+- Deep_dream image generation  
 ![Deep_dream](images/Deep_dream.jpg)
--Image Captioning  
+- Image Captioning  
 ![imgcap](images/imgcap.jpg)
 
 ## Future Work
