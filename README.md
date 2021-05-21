@@ -14,8 +14,8 @@ The following functionalities were made:
 ## Running Environment
 - python3.6.13  
 - transformers3.5.0  
-- torch1.3.0  
-- torchvision0.4.1,tensorflow1.15.5, tensorflow-datasets3.2.1, tensor2tensor  
+- torch1.3.0, torchvision0.4.1  
+- tensorflow1.15.5, tensorflow-datasets3.2.1, tensor2tensor  
 - flask, line-bot-sdk  
 - langdetect  
 
