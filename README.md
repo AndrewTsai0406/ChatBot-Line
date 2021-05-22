@@ -44,8 +44,7 @@ The following functionalities were made:
 
 ## Reference
 - [GPT2-chitchat](https://arxiv.org/pdf/1911.00536.pdf)  
-- [meena-chatbot](https://arxiv.org/pdf/2001.09977.pdf)
-
-
+- [meena-chatbot](https://arxiv.org/pdf/2001.09977.pdf)  
+- [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
 
 
