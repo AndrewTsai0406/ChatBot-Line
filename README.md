@@ -27,9 +27,6 @@ The following functionalities were made:
 
 
 ## Demonstration
-- Chinese/English Chitchat:  
-![Chinese](images/Chinese.jpg)
-![English](images/English.jpg)
 - Overview of the flex messege  
 ![Flex Message](images/overview.jpg)
 - Txt2Img generation  
@@ -38,6 +35,9 @@ The following functionalities were made:
 ![Deep_dream](images/Deep_dream.jpg)
 - Image Captioning  
 ![imgcap](images/imgcap.jpg)
+- Chinese/English Chitchat:  
+![Chinese](images/Chinese.jpg)
+![English](images/English.jpg)
 
 ## Future Work
 
